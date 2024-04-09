@@ -1,0 +1,36 @@
+{
+  "options": [
+    {
+      "name": "ADMIN LOGIN",
+      "admins": ["", "110079660276076544"],
+      "image": "https://cdn.discordapp.com/attachments/1118254179278930002/1167460221652828190/zb.e_Katana_sword_logo_with_name_Katana_4663e5e6-7516-43e9-86b5-5bb733396ba4.png?ex=6622768f&is=6610018f&hm=da92af5fda08726193ca082e7f8d2d17b1938783a34a0398812f34c86bd31809&",
+      "emoji": "<a:451530cdf70b416fafbc2bb004793dc5:1100227466221592576>",
+      "logchannel": "1227009707869470820",
+      "role": "1165629233259876362"
+    },
+    {
+      "name": "ADMIN",
+      "admins": ["", "110079660276076544"],
+      "image": "https://cdn.discordapp.com/attachments/1226996093632385077/1227002953492336690/Screenshot_2024-04-08_065026.png?ex=6626d28c&is=66145d8c&hm=1524ebea354e21add4c852cd1bafc5190729e000bc535cee5665238b4685e9de&",
+      "emoji": "<a:6957ohhyah:1221894461886431262>",
+      "logchannel": "1227009707869470820",
+      "role": "1165629233259876362"
+    },
+    {
+      "name": "القسم_الاول",
+      "admins": ["ايديك", "ايديك"],
+      "image": "رابط_الصورة",
+      "emoji": "الايموجي",
+      "logchannel": "ايدي_روم",
+      "role": "ايدي_رتبة"
+    },
+    {
+      "name": "القسم_الاول",
+      "admins": ["ايديك", "ايديك"],
+      "image": "رابط_الصورة",
+      "emoji": "الايموجي",
+      "logchannel": "ايدي_روم",
+      "role": "ايدي_رتبة"
+    }
+  ]
+}
